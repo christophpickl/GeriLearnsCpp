@@ -1,5 +1,15 @@
+# QT Creator
+# ===============================
 build-gameTemplate-Desktop_Qt_5_6_0_clang_64bit-Debug
 
+
+# CLion
+# ===============================
+.idea/
+
+
+# CPP SPECIFIC
+# ===============================
 # Compiled Object files
 *.slo
 *.lo
